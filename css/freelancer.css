@@ -391,3 +391,7 @@ footer .footer-below {
 .saito {
   background: transparent url(http://0.gravatar.com/avatar/4ccda288a39b3689f0c1c85bb21ff34f?s=200) no-repeat;
 }
+h3.title {
+  color: #e4535d;
+  font-size: 65px;
+}
