@@ -2842,18 +2842,22 @@ fieldset[disabled] .btn-primary.active {
   background-color: #ffffff;
 }
 .btn-success {
-  color: #4d3650;
-  background-color: #FFFFFF;
-  border: 2px solid #4d3650;
+  color: #FFF;
+  text-transform: uppercase;
+  background-color: #f04f50;
+/*  background-color: #FFFFFF;
+  border: 2px solid #f04f50; */
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success:active,
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
-  color: #4d3650;
+/*  border: 2px solid #f04f50;*/
+  background-color: #f47b84;
+/*  color: #4d3650;
   background-color: #a48da7;
-  border-color: #4d3650;
+  border-color: #4d3650;*/
 }
 .btn-success:active,
 .btn-success.active,
@@ -4097,14 +4101,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #18bc9c;
+  color: ##e4535d;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #1a242f;
+/*  background-color: #1a242f;*/
+  background-color: #e4535d;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
